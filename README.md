@@ -1,12 +1,12 @@
-# XTRABYTES
+# PatentByes
 
-XTRABYTES - The Proof of Signature Blockchain Database
+PatentByes - The Proof of Patent
 
 https://xtrabytes.global/
 
-XTRABYTES is a newly invented blockchain infrastructure that does not require any traditional type of mining support, such as: POW or POS. We have created something called Proof of Signature which ensures that 100% of all blocks will be signed by the system when they occur. The blocks are signed by the network of Master Nodes after verifying the transactions in the block. There are a total of 650 million XBY and there will never be more. 
+PatentByes is a newly invented blockchain infrastructure that does not require any traditional type of work, such as: full time work or contract work. We have created something called Proof of PatentByes which ensures that 100% of our coins will be sold at cryptopia. The blocks are signed by the network of Master Noobs after verifying the transactions in the block. We want to sell all of 650 million XBY and we will produce more. 
 
-The XTRABYTES system is a shared database storage system that will never break like some systems because we do not rely on miners who could turn their rigs to other coins, leaving the network unable to verify and therefore breaking the blockchain, rendering it useless and thus all clients losing access to their stored files. This can never happen to XTRABYTES.
+The PatentByes system is a shared database theft system that will never break like some systems because we do not rely on miners who could turn their rigs to other coins, leaving the network unable to verify and therefore breaking the blockchain, rendering it useless and thus all clients losing access to their stored files. This can never happen to PatentByes.
 
 ### More Information
 
